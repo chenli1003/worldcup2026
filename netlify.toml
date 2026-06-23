@@ -1,6 +1,3 @@
-﻿[build]
-  publish = "."
-
 [[headers]]
   for = "/data/worldcup-live.json"
   [headers.values]
