@@ -1,0 +1,49 @@
+{
+  "year": 2026,
+  "stages": {
+    "round_of_32": [
+      {"matchNo":73,"stage":"round_of_32","home":"Korea Republic","away":"Switzerland","homeScore":null,"awayScore":null,"city":"Inglewood","stadium":"Los Angeles Stadium","kickoffUtc":"2026-06-28T19:00:00.000Z"},
+      {"matchNo":74,"stage":"round_of_32","home":"Germany","away":"Scotland","homeScore":null,"awayScore":null,"city":"Foxborough","stadium":"Boston Stadium","kickoffUtc":"2026-06-29T20:30:00.000Z"},
+      {"matchNo":75,"stage":"round_of_32","home":"Sweden","away":"Morocco","homeScore":null,"awayScore":null,"city":"Guadalupe","stadium":"Monterrey Stadium","kickoffUtc":"2026-06-30T01:00:00.000Z"},
+      {"matchNo":76,"stage":"round_of_32","home":"Brazil","away":"Japan","homeScore":null,"awayScore":null,"city":"Houston","stadium":"Houston Stadium","kickoffUtc":"2026-06-29T17:00:00.000Z"},
+      {"matchNo":77,"stage":"round_of_32","home":"Norway","away":"Paraguay","homeScore":null,"awayScore":null,"city":"East Rutherford","stadium":"New York/New Jersey Stadium","kickoffUtc":"2026-06-30T21:00:00.000Z"},
+      {"matchNo":78,"stage":"round_of_32","home":"Côte d'Ivoire","away":"France","homeScore":null,"awayScore":null,"city":"Arlington","stadium":"Dallas Stadium","kickoffUtc":"2026-06-30T17:00:00.000Z"},
+      {"matchNo":79,"stage":"round_of_32","home":"Mexico","away":"Netherlands","homeScore":null,"awayScore":null,"city":"Ciudad de México","stadium":"Mexico City Stadium","kickoffUtc":"2026-07-01T01:00:00.000Z"},
+      {"matchNo":80,"stage":"round_of_32","home":"England","away":"Portugal","homeScore":null,"awayScore":null,"city":"Atlanta","stadium":"Atlanta Stadium","kickoffUtc":"2026-07-01T16:00:00.000Z"},
+      {"matchNo":81,"stage":"round_of_32","home":"USA","away":"Bosnia and Herzegovina","homeScore":null,"awayScore":null,"city":"Santa Clara","stadium":"San Francisco Bay Area Stadium","kickoffUtc":"2026-07-02T00:00:00.000Z"},
+      {"matchNo":82,"stage":"round_of_32","home":"New Zealand","away":"Spain","homeScore":null,"awayScore":null,"city":"Seattle","stadium":"Seattle Stadium","kickoffUtc":"2026-07-01T20:00:00.000Z"},
+      {"matchNo":83,"stage":"round_of_32","home":"Congo DR","away":"Ghana","homeScore":null,"awayScore":null,"city":"Toronto","stadium":"Toronto Stadium","kickoffUtc":"2026-07-02T23:00:00.000Z"},
+      {"matchNo":84,"stage":"round_of_32","home":"Uruguay","away":"Austria","homeScore":null,"awayScore":null,"city":"Inglewood","stadium":"Los Angeles Stadium","kickoffUtc":"2026-07-02T19:00:00.000Z"},
+      {"matchNo":85,"stage":"round_of_32","home":"Canada","away":"Belgium","homeScore":null,"awayScore":null,"city":"Vancouver","stadium":"BC Place Vancouver","kickoffUtc":"2026-07-03T03:00:00.000Z"},
+      {"matchNo":86,"stage":"round_of_32","home":"Argentina","away":"Saudi Arabia","homeScore":null,"awayScore":null,"city":"Miami Gardens","stadium":"Miami Stadium","kickoffUtc":"2026-07-03T22:00:00.000Z"},
+      {"matchNo":87,"stage":"round_of_32","home":"Colombia","away":"Ecuador","homeScore":null,"awayScore":null,"city":"Kansas City","stadium":"Kansas City Stadium","kickoffUtc":"2026-07-04T01:30:00.000Z"},
+      {"matchNo":88,"stage":"round_of_32","home":"Australia","away":"IR Iran","homeScore":null,"awayScore":null,"city":"Arlington","stadium":"Dallas Stadium","kickoffUtc":"2026-07-03T18:00:00.000Z"}
+    ],
+    "round_of_16": [
+      {"matchNo":89,"stage":"round_of_16","home":null,"away":null,"city":"Philadelphia","stadium":"Philadelphia Stadium","kickoffUtc":"2026-07-04T21:00:00.000Z"},
+      {"matchNo":90,"stage":"round_of_16","home":null,"away":null,"city":"Houston","stadium":"Houston Stadium","kickoffUtc":"2026-07-04T17:00:00.000Z"},
+      {"matchNo":91,"stage":"round_of_16","home":null,"away":null,"city":"East Rutherford","stadium":"New York/New Jersey Stadium","kickoffUtc":"2026-07-05T20:00:00.000Z"},
+      {"matchNo":92,"stage":"round_of_16","home":null,"away":null,"city":"Ciudad de México","stadium":"Mexico City Stadium","kickoffUtc":"2026-07-06T00:00:00.000Z"},
+      {"matchNo":93,"stage":"round_of_16","home":null,"away":null,"city":"Arlington","stadium":"Dallas Stadium","kickoffUtc":"2026-07-06T19:00:00.000Z"},
+      {"matchNo":94,"stage":"round_of_16","home":null,"away":null,"city":"Seattle","stadium":"Seattle Stadium","kickoffUtc":"2026-07-07T00:00:00.000Z"},
+      {"matchNo":95,"stage":"round_of_16","home":null,"away":null,"city":"Atlanta","stadium":"Atlanta Stadium","kickoffUtc":"2026-07-07T16:00:00.000Z"},
+      {"matchNo":96,"stage":"round_of_16","home":null,"away":null,"city":"Vancouver","stadium":"BC Place Vancouver","kickoffUtc":"2026-07-07T20:00:00.000Z"}
+    ],
+    "quarter_final": [
+      {"matchNo":97,"stage":"quarter_final","home":null,"away":null,"city":"Foxborough","stadium":"Boston Stadium","kickoffUtc":"2026-07-09T20:00:00.000Z"},
+      {"matchNo":98,"stage":"quarter_final","home":null,"away":null,"city":"Inglewood","stadium":"Los Angeles Stadium","kickoffUtc":"2026-07-10T19:00:00.000Z"},
+      {"matchNo":99,"stage":"quarter_final","home":null,"away":null,"city":"Miami Gardens","stadium":"Miami Stadium","kickoffUtc":"2026-07-11T21:00:00.000Z"},
+      {"matchNo":100,"stage":"quarter_final","home":null,"away":null,"city":"Kansas City","stadium":"Kansas City Stadium","kickoffUtc":"2026-07-12T01:00:00.000Z"}
+    ],
+    "semi_final": [
+      {"matchNo":101,"stage":"semi_final","home":null,"away":null,"city":"Arlington","stadium":"Dallas Stadium","kickoffUtc":"2026-07-14T19:00:00.000Z"},
+      {"matchNo":102,"stage":"semi_final","home":null,"away":null,"city":"Atlanta","stadium":"Atlanta Stadium","kickoffUtc":"2026-07-15T19:00:00.000Z"}
+    ],
+    "third_place": [
+      {"matchNo":103,"stage":"third_place","home":null,"away":null,"city":"Miami Gardens","stadium":"Miami Stadium","kickoffUtc":"2026-07-18T21:00:00.000Z"}
+    ],
+    "final": [
+      {"matchNo":104,"stage":"final","home":null,"away":null,"city":"East Rutherford","stadium":"New York/New Jersey Stadium","kickoffUtc":"2026-07-19T19:00:00.000Z"}
+    ]
+  }
+}

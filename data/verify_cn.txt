@@ -1,0 +1,4 @@
+home: Mexico | homeCN: 墨西哥
+away: South Africa | awayCN: 南非
+Group A: Mexico | 墨西哥
+R32: Korea Republic(韩国) vs Switzerland(瑞士)

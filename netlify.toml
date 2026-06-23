@@ -1,0 +1,14 @@
+﻿[build]
+  command = "python fetch_live_data.py"
+  publish = "."
+
+[[redirects]]
+  from = "/data/worldcup-live.json"
+  to = "/data/worldcup-live.json"
+  status = 200
+
+[[headers]]
+  for = "/data/worldcup-live.json"
+  [headers.values]
+    Cache-Control = "public, max-age=300"
+    Access-Control-Allow-Origin = "*"

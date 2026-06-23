@@ -1,0 +1,77 @@
+{
+  "year": 2026,
+  "groups": {
+    "A": [
+      {"team": "Mexico", "played": 2, "won": 2, "drawn": 0, "lost": 0, "goalsFor": 3, "goalsAgainst": 0, "goalDifference": 3, "points": 6, "fairPlay": -5, "position": 1, "advanced": true},
+      {"team": "Korea Republic", "played": 2, "won": 1, "drawn": 0, "lost": 1, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 3, "fairPlay": -3, "position": 2, "advanced": true},
+      {"team": "Czechia", "played": 2, "won": 0, "drawn": 1, "lost": 1, "goalsFor": 2, "goalsAgainst": 3, "goalDifference": -1, "points": 1, "fairPlay": -1, "position": 3, "advanced": true},
+      {"team": "South Africa", "played": 2, "won": 0, "drawn": 1, "lost": 1, "goalsFor": 1, "goalsAgainst": 3, "goalDifference": -2, "points": 1, "fairPlay": -12, "position": 4}
+    ],
+    "B": [
+      {"team": "Canada", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 7, "goalsAgainst": 1, "goalDifference": 6, "points": 4, "fairPlay": -3, "position": 1, "advanced": true},
+      {"team": "Switzerland", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 5, "goalsAgainst": 2, "goalDifference": 3, "points": 4, "fairPlay": -2, "position": 2, "advanced": true},
+      {"team": "Bosnia and Herzegovina", "played": 2, "won": 0, "drawn": 1, "lost": 1, "goalsFor": 2, "goalsAgainst": 5, "goalDifference": -3, "points": 1, "fairPlay": -9, "position": 3, "advanced": true},
+      {"team": "Qatar", "played": 2, "won": 0, "drawn": 1, "lost": 1, "goalsFor": 1, "goalsAgainst": 7, "goalDifference": -6, "points": 1, "fairPlay": -11, "position": 4}
+    ],
+    "C": [
+      {"team": "Brazil", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 4, "goalsAgainst": 1, "goalDifference": 3, "points": 4, "fairPlay": -3, "position": 1, "advanced": true},
+      {"team": "Morocco", "played": 2, "won": 1, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 1, "goalDifference": 1, "points": 4, "fairPlay": -1, "position": 2, "advanced": true},
+      {"team": "Scotland", "played": 2, "won": 1, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 3, "fairPlay": -5, "position": 3, "advanced": true},
+      {"team": "Haiti", "played": 2, "won": 0, "drawn": 0, "lost": 2, "goalsFor": 0, "goalsAgainst": 4, "goalDifference": -4, "points": 0, "fairPlay": -4, "position": 4}
+    ],
+    "D": [
+      {"team": "USA", "played": 2, "won": 2, "drawn": 0, "lost": 0, "goalsFor": 6, "goalsAgainst": 1, "goalDifference": 5, "points": 6, "fairPlay": -4, "position": 1, "advanced": true},
+      {"team": "Australia", "played": 2, "won": 1, "drawn": 0, "lost": 1, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 3, "fairPlay": -4, "position": 2, "advanced": true},
+      {"team": "Paraguay", "played": 2, "won": 1, "drawn": 0, "lost": 1, "goalsFor": 2, "goalsAgainst": 4, "goalDifference": -2, "points": 3, "fairPlay": -10, "position": 3, "advanced": true},
+      {"team": "Türkiye", "played": 2, "won": 0, "drawn": 0, "lost": 2, "goalsFor": 0, "goalsAgainst": 3, "goalDifference": -3, "points": 0, "fairPlay": -2, "position": 4}
+    ],
+    "E": [
+      {"team": "Germany", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 7, "goalsAgainst": 1, "goalDifference": 6, "points": 3, "fairPlay": 0, "position": 1, "advanced": true},
+      {"team": "Côte d'Ivoire", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 0, "goalDifference": 1, "points": 3, "fairPlay": -3, "position": 2, "advanced": true},
+      {"team": "Ecuador", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 1, "goalDifference": -1, "points": 0, "fairPlay": -1, "position": 3, "advanced": false},
+      {"team": "Curaçao", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 7, "goalDifference": -6, "points": 0, "fairPlay": 0, "position": 4}
+    ],
+    "F": [
+      {"team": "Sweden", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 5, "goalsAgainst": 1, "goalDifference": 4, "points": 3, "fairPlay": 0, "position": 1, "advanced": true},
+      {"team": "Japan", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1, "fairPlay": 0, "position": 2, "advanced": true},
+      {"team": "Netherlands", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1, "fairPlay": -3, "position": 3, "advanced": true},
+      {"team": "Tunisia", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 5, "goalDifference": -4, "points": 0, "fairPlay": -1, "position": 4}
+    ],
+    "G": [
+      {"team": "New Zealand", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1, "fairPlay": 0, "position": 1, "advanced": true},
+      {"team": "IR Iran", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 2, "goalsAgainst": 2, "goalDifference": 0, "points": 1, "fairPlay": -1, "position": 2, "advanced": true},
+      {"team": "Belgium", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1, "fairPlay": -2, "position": null, "advanced": true},
+      {"team": "Egypt", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1, "fairPlay": -2, "position": null, "advanced": true}
+    ],
+    "H": [
+      {"team": "Uruguay", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1, "fairPlay": 0, "position": 1, "advanced": true},
+      {"team": "Saudi Arabia", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1, "fairPlay": -1, "position": 2, "advanced": true},
+      {"team": "Spain", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 1, "fairPlay": -1, "position": null, "advanced": true},
+      {"team": "Cabo Verde", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 0, "goalsAgainst": 0, "goalDifference": 0, "points": 1, "fairPlay": -1, "position": null, "advanced": false}
+    ],
+    "I": [
+      {"team": "Norway", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 4, "goalsAgainst": 1, "goalDifference": 3, "points": 3, "fairPlay": 0, "position": 1, "advanced": true},
+      {"team": "France", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 3, "goalsAgainst": 1, "goalDifference": 2, "points": 3, "fairPlay": 0, "position": 2, "advanced": true},
+      {"team": "Senegal", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 3, "goalDifference": -2, "points": 0, "fairPlay": 0, "position": 3, "advanced": false},
+      {"team": "Iraq", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 4, "goalDifference": -3, "points": 0, "fairPlay": -1, "position": 4}
+    ],
+    "J": [
+      {"team": "Argentina", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 3, "goalsAgainst": 0, "goalDifference": 3, "points": 3, "fairPlay": 0, "position": 1, "advanced": true},
+      {"team": "Austria", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 3, "goalsAgainst": 1, "goalDifference": 2, "points": 3, "fairPlay": -1, "position": 2, "advanced": true},
+      {"team": "Jordan", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 3, "goalDifference": -2, "points": 0, "fairPlay": 0, "position": 3, "advanced": false},
+      {"team": "Algeria", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 3, "goalDifference": -3, "points": 0, "fairPlay": 0, "position": 4}
+    ],
+    "K": [
+      {"team": "Colombia", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 3, "goalsAgainst": 1, "goalDifference": 2, "points": 3, "fairPlay": -1, "position": 1, "advanced": true},
+      {"team": "Congo DR", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1, "fairPlay": -1, "position": 2, "advanced": true},
+      {"team": "Portugal", "played": 1, "won": 0, "drawn": 1, "lost": 0, "goalsFor": 1, "goalsAgainst": 1, "goalDifference": 0, "points": 1, "fairPlay": -3, "position": 3, "advanced": true},
+      {"team": "Uzbekistan", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 1, "goalsAgainst": 3, "goalDifference": -2, "points": 0, "fairPlay": -1, "position": 4}
+    ],
+    "L": [
+      {"team": "England", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 4, "goalsAgainst": 2, "goalDifference": 2, "points": 3, "fairPlay": 0, "position": 1, "advanced": true},
+      {"team": "Ghana", "played": 1, "won": 1, "drawn": 0, "lost": 0, "goalsFor": 1, "goalsAgainst": 0, "goalDifference": 1, "points": 3, "fairPlay": -1, "position": 2, "advanced": true},
+      {"team": "Panama", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 0, "goalsAgainst": 1, "goalDifference": -1, "points": 0, "fairPlay": -2, "position": 3, "advanced": false},
+      {"team": "Croati", "played": 1, "won": 0, "drawn": 0, "lost": 1, "goalsFor": 2, "goalsAgainst": 4, "goalDifference": -2, "points": 0, "fairPlay": 0, "position": 4}
+    ]
+  }
+}

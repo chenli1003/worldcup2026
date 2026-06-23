@@ -1,0 +1,7 @@
+﻿# Temp/build artifacts
+wcup2026/
+__pycache__/
+*.pyc
+.DS_Store
+# Old snapshot file (keep only worldcup-live.json)
+data/worldcup-live-v2-final.json
