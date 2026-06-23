@@ -1,11 +1,5 @@
 ﻿[build]
-  command = "python fetch_live_data.py"
   publish = "."
-
-[[redirects]]
-  from = "/data/worldcup-live.json"
-  to = "/data/worldcup-live.json"
-  status = 200
 
 [[headers]]
   for = "/data/worldcup-live.json"
