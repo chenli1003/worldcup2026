@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T01:30:55.595116+00:00",
-  "totalMatches": 47,
-  "playedCount": 47,
+  "generatedAt": "2026-06-24T05:49:20.375472+00:00",
+  "totalMatches": 48,
+  "playedCount": 48,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -655,6 +655,21 @@
       {
         "id": "2026-044",
         "matchNo": 44,
+        "homeTeam": "Colombia",
+        "awayTeam": "DR Congo",
+        "homeScore": 1,
+        "awayScore": 0,
+        "homeRef": "Colombia",
+        "awayRef": "DR Congo",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
+      },
+      {
+        "id": "2026-045",
+        "matchNo": 45,
         "homeTeam": "England",
         "awayTeam": "Croatia",
         "homeScore": 4,
@@ -668,8 +683,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-045",
-        "matchNo": 45,
+        "id": "2026-046",
+        "matchNo": 46,
         "homeTeam": "Ghana",
         "awayTeam": "Panama",
         "homeScore": 1,
@@ -683,8 +698,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-046",
-        "matchNo": 46,
+        "id": "2026-047",
+        "matchNo": 47,
         "homeTeam": "England",
         "awayTeam": "Ghana",
         "homeScore": 0,
@@ -698,8 +713,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-047",
-        "matchNo": 47,
+        "id": "2026-048",
+        "matchNo": 48,
         "homeTeam": "Panama",
         "awayTeam": "Croatia",
         "homeScore": 0,
@@ -1962,6 +1977,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-044",
+        "date": "",
+        "stage": "group_a",
+        "home": "Colombia",
+        "away": "DR Congo",
+        "homeCN": "哥伦比亚",
+        "awayCN": "DR Congo",
+        "homeScore": 1,
+        "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Uzbekistan": [
@@ -2008,11 +2037,25 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-044",
+        "date": "",
+        "stage": "group_a",
+        "home": "Colombia",
+        "away": "DR Congo",
+        "homeCN": "哥伦比亚",
+        "awayCN": "DR Congo",
+        "homeScore": 1,
+        "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "England": [
       {
-        "id": "2026-044",
+        "id": "2026-045",
         "date": "",
         "stage": "group_a",
         "home": "England",
@@ -2026,7 +2069,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-046",
+        "id": "2026-047",
         "date": "",
         "stage": "group_a",
         "home": "England",
@@ -2042,7 +2085,7 @@
     ],
     "Croatia": [
       {
-        "id": "2026-044",
+        "id": "2026-045",
         "date": "",
         "stage": "group_a",
         "home": "England",
@@ -2056,7 +2099,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-047",
+        "id": "2026-048",
         "date": "",
         "stage": "group_a",
         "home": "Panama",
@@ -2072,7 +2115,7 @@
     ],
     "Ghana": [
       {
-        "id": "2026-045",
+        "id": "2026-046",
         "date": "",
         "stage": "group_a",
         "home": "Ghana",
@@ -2086,7 +2129,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-046",
+        "id": "2026-047",
         "date": "",
         "stage": "group_a",
         "home": "England",
@@ -2102,7 +2145,7 @@
     ],
     "Panama": [
       {
-        "id": "2026-045",
+        "id": "2026-046",
         "date": "",
         "stage": "group_a",
         "home": "Ghana",
@@ -2116,7 +2159,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-047",
+        "id": "2026-048",
         "date": "",
         "stage": "group_a",
         "home": "Panama",
@@ -2780,6 +2823,21 @@
     {
       "id": "2026-044",
       "matchNo": 44,
+      "homeTeam": "Colombia",
+      "awayTeam": "DR Congo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeRef": "Colombia",
+      "awayRef": "DR Congo",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-045",
+      "matchNo": 45,
       "homeTeam": "England",
       "awayTeam": "Croatia",
       "homeScore": 4,
@@ -2793,8 +2851,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-045",
-      "matchNo": 45,
+      "id": "2026-046",
+      "matchNo": 46,
       "homeTeam": "Ghana",
       "awayTeam": "Panama",
       "homeScore": 1,
@@ -2808,8 +2866,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-046",
-      "matchNo": 46,
+      "id": "2026-047",
+      "matchNo": 47,
       "homeTeam": "England",
       "awayTeam": "Ghana",
       "homeScore": 0,
@@ -2823,8 +2881,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-047",
-      "matchNo": 47,
+      "id": "2026-048",
+      "matchNo": 48,
       "homeTeam": "Panama",
       "awayTeam": "Croatia",
       "homeScore": 0,
