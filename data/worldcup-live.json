@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-26T20:43:59.129439+00:00",
-  "totalMatches": 60,
-  "playedCount": 60,
+  "generatedAt": "2026-06-26T21:53:03.113763+00:00",
+  "totalMatches": 62,
+  "playedCount": 62,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -730,6 +730,36 @@
       {
         "id": "2026-049",
         "matchNo": 49,
+        "homeTeam": "Norway",
+        "awayTeam": "France",
+        "homeScore": 1,
+        "awayScore": 4,
+        "homeRef": "Norway",
+        "awayRef": "France",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
+      },
+      {
+        "id": "2026-050",
+        "matchNo": 50,
+        "homeTeam": "Senegal",
+        "awayTeam": "Iraq",
+        "homeScore": 5,
+        "awayScore": 0,
+        "homeRef": "Senegal",
+        "awayRef": "Iraq",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
+      },
+      {
+        "id": "2026-051",
+        "matchNo": 51,
         "homeTeam": "Argentina",
         "awayTeam": "Algeria",
         "homeScore": 3,
@@ -743,8 +773,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-050",
-        "matchNo": 50,
+        "id": "2026-052",
+        "matchNo": 52,
         "homeTeam": "Austria",
         "awayTeam": "Jordan",
         "homeScore": 3,
@@ -758,8 +788,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-051",
-        "matchNo": 51,
+        "id": "2026-053",
+        "matchNo": 53,
         "homeTeam": "Argentina",
         "awayTeam": "Austria",
         "homeScore": 2,
@@ -773,8 +803,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-052",
-        "matchNo": 52,
+        "id": "2026-054",
+        "matchNo": 54,
         "homeTeam": "Jordan",
         "awayTeam": "Algeria",
         "homeScore": 1,
@@ -788,8 +818,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-053",
-        "matchNo": 53,
+        "id": "2026-055",
+        "matchNo": 55,
         "homeTeam": "Portugal",
         "awayTeam": "DR Congo",
         "homeScore": 1,
@@ -803,8 +833,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-054",
-        "matchNo": 54,
+        "id": "2026-056",
+        "matchNo": 56,
         "homeTeam": "Uzbekistan",
         "awayTeam": "Colombia",
         "homeScore": 1,
@@ -818,8 +848,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-055",
-        "matchNo": 55,
+        "id": "2026-057",
+        "matchNo": 57,
         "homeTeam": "Portugal",
         "awayTeam": "Uzbekistan",
         "homeScore": 5,
@@ -833,8 +863,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-056",
-        "matchNo": 56,
+        "id": "2026-058",
+        "matchNo": 58,
         "homeTeam": "Colombia",
         "awayTeam": "DR Congo",
         "homeScore": 1,
@@ -848,8 +878,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-057",
-        "matchNo": 57,
+        "id": "2026-059",
+        "matchNo": 59,
         "homeTeam": "England",
         "awayTeam": "Croatia",
         "homeScore": 4,
@@ -863,8 +893,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-058",
-        "matchNo": 58,
+        "id": "2026-060",
+        "matchNo": 60,
         "homeTeam": "Ghana",
         "awayTeam": "Panama",
         "homeScore": 1,
@@ -878,8 +908,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-059",
-        "matchNo": 59,
+        "id": "2026-061",
+        "matchNo": 61,
         "homeTeam": "England",
         "awayTeam": "Ghana",
         "homeScore": 0,
@@ -893,8 +923,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-060",
-        "matchNo": 60,
+        "id": "2026-062",
+        "matchNo": 62,
         "homeTeam": "Panama",
         "awayTeam": "Croatia",
         "homeScore": 0,
@@ -2237,6 +2267,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-049",
+        "date": "",
+        "stage": "group_a",
+        "home": "Norway",
+        "away": "France",
+        "homeCN": "挪威",
+        "awayCN": "法国",
+        "homeScore": 1,
+        "awayScore": 4,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Senegal": [
@@ -2267,6 +2311,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-050",
+        "date": "",
+        "stage": "group_a",
+        "home": "Senegal",
+        "away": "Iraq",
+        "homeCN": "塞内加尔",
+        "awayCN": "伊拉克",
+        "homeScore": 5,
+        "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Iraq": [
@@ -2293,6 +2351,20 @@
         "homeCN": "法国",
         "awayCN": "伊拉克",
         "homeScore": 3,
+        "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-050",
+        "date": "",
+        "stage": "group_a",
+        "home": "Senegal",
+        "away": "Iraq",
+        "homeCN": "塞内加尔",
+        "awayCN": "伊拉克",
+        "homeScore": 5,
         "awayScore": 0,
         "city": "",
         "stadium": "",
@@ -2327,11 +2399,25 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-049",
+        "date": "",
+        "stage": "group_a",
+        "home": "Norway",
+        "away": "France",
+        "homeCN": "挪威",
+        "awayCN": "法国",
+        "homeScore": 1,
+        "awayScore": 4,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Argentina": [
       {
-        "id": "2026-049",
+        "id": "2026-051",
         "date": "",
         "stage": "group_a",
         "home": "Argentina",
@@ -2345,7 +2431,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-051",
+        "id": "2026-053",
         "date": "",
         "stage": "group_a",
         "home": "Argentina",
@@ -2361,7 +2447,7 @@
     ],
     "Algeria": [
       {
-        "id": "2026-049",
+        "id": "2026-051",
         "date": "",
         "stage": "group_a",
         "home": "Argentina",
@@ -2375,7 +2461,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-052",
+        "id": "2026-054",
         "date": "",
         "stage": "group_a",
         "home": "Jordan",
@@ -2391,7 +2477,7 @@
     ],
     "Austria": [
       {
-        "id": "2026-050",
+        "id": "2026-052",
         "date": "",
         "stage": "group_a",
         "home": "Austria",
@@ -2405,7 +2491,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-051",
+        "id": "2026-053",
         "date": "",
         "stage": "group_a",
         "home": "Argentina",
@@ -2421,7 +2507,7 @@
     ],
     "Jordan": [
       {
-        "id": "2026-050",
+        "id": "2026-052",
         "date": "",
         "stage": "group_a",
         "home": "Austria",
@@ -2435,7 +2521,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-052",
+        "id": "2026-054",
         "date": "",
         "stage": "group_a",
         "home": "Jordan",
@@ -2451,7 +2537,7 @@
     ],
     "Portugal": [
       {
-        "id": "2026-053",
+        "id": "2026-055",
         "date": "",
         "stage": "group_a",
         "home": "Portugal",
@@ -2465,7 +2551,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-055",
+        "id": "2026-057",
         "date": "",
         "stage": "group_a",
         "home": "Portugal",
@@ -2481,7 +2567,7 @@
     ],
     "DR Congo": [
       {
-        "id": "2026-053",
+        "id": "2026-055",
         "date": "",
         "stage": "group_a",
         "home": "Portugal",
@@ -2495,7 +2581,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-056",
+        "id": "2026-058",
         "date": "",
         "stage": "group_a",
         "home": "Colombia",
@@ -2511,7 +2597,7 @@
     ],
     "Uzbekistan": [
       {
-        "id": "2026-054",
+        "id": "2026-056",
         "date": "",
         "stage": "group_a",
         "home": "Uzbekistan",
@@ -2525,7 +2611,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-055",
+        "id": "2026-057",
         "date": "",
         "stage": "group_a",
         "home": "Portugal",
@@ -2541,7 +2627,7 @@
     ],
     "Colombia": [
       {
-        "id": "2026-054",
+        "id": "2026-056",
         "date": "",
         "stage": "group_a",
         "home": "Uzbekistan",
@@ -2555,7 +2641,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-056",
+        "id": "2026-058",
         "date": "",
         "stage": "group_a",
         "home": "Colombia",
@@ -2571,7 +2657,7 @@
     ],
     "England": [
       {
-        "id": "2026-057",
+        "id": "2026-059",
         "date": "",
         "stage": "group_a",
         "home": "England",
@@ -2585,7 +2671,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-059",
+        "id": "2026-061",
         "date": "",
         "stage": "group_a",
         "home": "England",
@@ -2601,7 +2687,7 @@
     ],
     "Croatia": [
       {
-        "id": "2026-057",
+        "id": "2026-059",
         "date": "",
         "stage": "group_a",
         "home": "England",
@@ -2615,7 +2701,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-060",
+        "id": "2026-062",
         "date": "",
         "stage": "group_a",
         "home": "Panama",
@@ -2631,7 +2717,7 @@
     ],
     "Ghana": [
       {
-        "id": "2026-058",
+        "id": "2026-060",
         "date": "",
         "stage": "group_a",
         "home": "Ghana",
@@ -2645,7 +2731,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-059",
+        "id": "2026-061",
         "date": "",
         "stage": "group_a",
         "home": "England",
@@ -2661,7 +2747,7 @@
     ],
     "Panama": [
       {
-        "id": "2026-058",
+        "id": "2026-060",
         "date": "",
         "stage": "group_a",
         "home": "Ghana",
@@ -2675,7 +2761,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-060",
+        "id": "2026-062",
         "date": "",
         "stage": "group_a",
         "home": "Panama",
@@ -3414,6 +3500,36 @@
     {
       "id": "2026-049",
       "matchNo": 49,
+      "homeTeam": "Norway",
+      "awayTeam": "France",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeRef": "Norway",
+      "awayRef": "France",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-050",
+      "matchNo": 50,
+      "homeTeam": "Senegal",
+      "awayTeam": "Iraq",
+      "homeScore": 5,
+      "awayScore": 0,
+      "homeRef": "Senegal",
+      "awayRef": "Iraq",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-051",
+      "matchNo": 51,
       "homeTeam": "Argentina",
       "awayTeam": "Algeria",
       "homeScore": 3,
@@ -3427,8 +3543,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-050",
-      "matchNo": 50,
+      "id": "2026-052",
+      "matchNo": 52,
       "homeTeam": "Austria",
       "awayTeam": "Jordan",
       "homeScore": 3,
@@ -3442,8 +3558,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-051",
-      "matchNo": 51,
+      "id": "2026-053",
+      "matchNo": 53,
       "homeTeam": "Argentina",
       "awayTeam": "Austria",
       "homeScore": 2,
@@ -3457,8 +3573,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-052",
-      "matchNo": 52,
+      "id": "2026-054",
+      "matchNo": 54,
       "homeTeam": "Jordan",
       "awayTeam": "Algeria",
       "homeScore": 1,
@@ -3472,8 +3588,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-053",
-      "matchNo": 53,
+      "id": "2026-055",
+      "matchNo": 55,
       "homeTeam": "Portugal",
       "awayTeam": "DR Congo",
       "homeScore": 1,
@@ -3487,8 +3603,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-054",
-      "matchNo": 54,
+      "id": "2026-056",
+      "matchNo": 56,
       "homeTeam": "Uzbekistan",
       "awayTeam": "Colombia",
       "homeScore": 1,
@@ -3502,8 +3618,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-055",
-      "matchNo": 55,
+      "id": "2026-057",
+      "matchNo": 57,
       "homeTeam": "Portugal",
       "awayTeam": "Uzbekistan",
       "homeScore": 5,
@@ -3517,8 +3633,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-056",
-      "matchNo": 56,
+      "id": "2026-058",
+      "matchNo": 58,
       "homeTeam": "Colombia",
       "awayTeam": "DR Congo",
       "homeScore": 1,
@@ -3532,8 +3648,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-057",
-      "matchNo": 57,
+      "id": "2026-059",
+      "matchNo": 59,
       "homeTeam": "England",
       "awayTeam": "Croatia",
       "homeScore": 4,
@@ -3547,8 +3663,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-058",
-      "matchNo": 58,
+      "id": "2026-060",
+      "matchNo": 60,
       "homeTeam": "Ghana",
       "awayTeam": "Panama",
       "homeScore": 1,
@@ -3562,8 +3678,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-059",
-      "matchNo": 59,
+      "id": "2026-061",
+      "matchNo": 61,
       "homeTeam": "England",
       "awayTeam": "Ghana",
       "homeScore": 0,
@@ -3577,8 +3693,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-060",
-      "matchNo": 60,
+      "id": "2026-062",
+      "matchNo": 62,
       "homeTeam": "Panama",
       "awayTeam": "Croatia",
       "homeScore": 0,
