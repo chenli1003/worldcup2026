@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T17:02:53.990288+00:00",
-  "totalMatches": 78,
-  "playedCount": 78,
+  "generatedAt": "2026-06-30T19:05:26.175459+00:00",
+  "totalMatches": 79,
+  "playedCount": 79,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1176,6 +1176,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-079",
+        "matchNo": 79,
+        "homeTeam": "Ivory Coast",
+        "awayTeam": "Norway",
+        "homeScore": 1,
+        "awayScore": 2,
+        "homeRef": "Ivory Coast",
+        "awayRef": "Norway",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -2101,6 +2116,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-079",
+        "date": "",
+        "stage": "group_a",
+        "home": "Ivory Coast",
+        "away": "Norway",
+        "homeCN": "Ivory Coast",
+        "awayCN": "挪威",
+        "homeScore": 1,
+        "awayScore": 2,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Ecuador": [
@@ -2874,6 +2903,20 @@
         "awayCN": "法国",
         "homeScore": 1,
         "awayScore": 4,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-079",
+        "date": "",
+        "stage": "group_a",
+        "home": "Ivory Coast",
+        "away": "Norway",
+        "homeCN": "Ivory Coast",
+        "awayCN": "挪威",
+        "homeScore": 1,
+        "awayScore": 2,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -4637,6 +4680,21 @@
       "awayScore": 3,
       "homeRef": "Koopmeiners Kluivert Weghorst Timber Summerville",
       "awayRef": "El Aynaoui Rahimi Talbi Hakimi Saibari",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-079",
+      "matchNo": 79,
+      "homeTeam": "Ivory Coast",
+      "awayTeam": "Norway",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeRef": "Ivory Coast",
+      "awayRef": "Norway",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
