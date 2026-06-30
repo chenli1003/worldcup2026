@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T22:39:27.330444+00:00",
-  "totalMatches": 79,
-  "playedCount": 79,
+  "generatedAt": "2026-06-30T23:49:20.377664+00:00",
+  "totalMatches": 80,
+  "playedCount": 80,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1191,6 +1191,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-080",
+        "matchNo": 80,
+        "homeTeam": "France",
+        "awayTeam": "Sweden",
+        "homeScore": 3,
+        "awayScore": 0,
+        "homeRef": "France",
+        "awayRef": "Sweden",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -2334,6 +2349,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-080",
+        "date": "",
+        "stage": "group_a",
+        "home": "France",
+        "away": "Sweden",
+        "homeCN": "法国",
+        "awayCN": "瑞典",
+        "homeScore": 3,
+        "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Tunisia": [
@@ -2771,6 +2800,20 @@
         "awayCN": "法国",
         "homeScore": 1,
         "awayScore": 4,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-080",
+        "date": "",
+        "stage": "group_a",
+        "home": "France",
+        "away": "Sweden",
+        "homeCN": "法国",
+        "awayCN": "瑞典",
+        "homeScore": 3,
+        "awayScore": 0,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -4695,6 +4738,21 @@
       "awayScore": 2,
       "homeRef": "Ivory Coast",
       "awayRef": "Norway",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-080",
+      "matchNo": 80,
+      "homeTeam": "France",
+      "awayTeam": "Sweden",
+      "homeScore": 3,
+      "awayScore": 0,
+      "homeRef": "France",
+      "awayRef": "Sweden",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
