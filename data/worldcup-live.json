@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T01:36:38.636100+00:00",
-  "totalMatches": 76,
-  "playedCount": 76,
+  "generatedAt": "2026-06-30T05:55:59.319980+00:00",
+  "totalMatches": 78,
+  "playedCount": 78,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1146,6 +1146,36 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-077",
+        "matchNo": 77,
+        "homeTeam": "Netherlands",
+        "awayTeam": "Morocco",
+        "homeScore": 1,
+        "awayScore": 1,
+        "homeRef": "Netherlands",
+        "awayRef": "Morocco",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
+      },
+      {
+        "id": "2026-078",
+        "matchNo": 78,
+        "homeTeam": "Koopmeiners Kluivert Weghorst Timber Summerville",
+        "awayTeam": "El Aynaoui Rahimi Talbi Hakimi Saibari",
+        "homeScore": 2,
+        "awayScore": 3,
+        "homeRef": "Koopmeiners Kluivert Weghorst Timber Summerville",
+        "awayRef": "El Aynaoui Rahimi Talbi Hakimi Saibari",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -1630,6 +1660,20 @@
         "awayCN": "海地",
         "homeScore": 4,
         "awayScore": 2,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-077",
+        "date": "",
+        "stage": "group_a",
+        "home": "Netherlands",
+        "away": "Morocco",
+        "homeCN": "荷兰",
+        "awayCN": "摩洛哥",
+        "homeScore": 1,
+        "awayScore": 1,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -2142,6 +2186,20 @@
         "awayCN": "荷兰",
         "homeScore": 1,
         "awayScore": 3,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-077",
+        "date": "",
+        "stage": "group_a",
+        "home": "Netherlands",
+        "away": "Morocco",
+        "homeCN": "荷兰",
+        "awayCN": "摩洛哥",
+        "homeScore": 1,
+        "awayScore": 1,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -3380,6 +3438,38 @@
         "stadium": "",
         "kickoffBJ": ""
       }
+    ],
+    "Koopmeiners Kluivert Weghorst Timber Summerville": [
+      {
+        "id": "2026-078",
+        "date": "",
+        "stage": "group_a",
+        "home": "Koopmeiners Kluivert Weghorst Timber Summerville",
+        "away": "El Aynaoui Rahimi Talbi Hakimi Saibari",
+        "homeCN": "Koopmeiners Kluivert Weghorst Timber Summerville",
+        "awayCN": "El Aynaoui Rahimi Talbi Hakimi Saibari",
+        "homeScore": 2,
+        "awayScore": 3,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      }
+    ],
+    "El Aynaoui Rahimi Talbi Hakimi Saibari": [
+      {
+        "id": "2026-078",
+        "date": "",
+        "stage": "group_a",
+        "home": "Koopmeiners Kluivert Weghorst Timber Summerville",
+        "away": "El Aynaoui Rahimi Talbi Hakimi Saibari",
+        "homeCN": "Koopmeiners Kluivert Weghorst Timber Summerville",
+        "awayCN": "El Aynaoui Rahimi Talbi Hakimi Saibari",
+        "homeScore": 2,
+        "awayScore": 3,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      }
     ]
   },
   "allMatches": [
@@ -4517,6 +4607,36 @@
       "awayScore": 4,
       "homeRef": "Havertz Kimmich Musiala Woltemade Amiri Tah",
       "awayRef": "Maurício G. Gómez Galarza Sanabria Balbuena Canale",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-077",
+      "matchNo": 77,
+      "homeTeam": "Netherlands",
+      "awayTeam": "Morocco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeRef": "Netherlands",
+      "awayRef": "Morocco",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-078",
+      "matchNo": 78,
+      "homeTeam": "Koopmeiners Kluivert Weghorst Timber Summerville",
+      "awayTeam": "El Aynaoui Rahimi Talbi Hakimi Saibari",
+      "homeScore": 2,
+      "awayScore": 3,
+      "homeRef": "Koopmeiners Kluivert Weghorst Timber Summerville",
+      "awayRef": "El Aynaoui Rahimi Talbi Hakimi Saibari",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
