@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T08:50:06.785753+00:00",
-  "totalMatches": 80,
-  "playedCount": 80,
+  "generatedAt": "2026-07-01T12:08:39.249941+00:00",
+  "totalMatches": 81,
+  "playedCount": 81,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1206,6 +1206,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-081",
+        "matchNo": 81,
+        "homeTeam": "Mexico",
+        "awayTeam": "Ecuador",
+        "homeScore": 2,
+        "awayScore": 0,
+        "homeRef": "Mexico",
+        "awayRef": "Ecuador",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -1252,6 +1267,20 @@
         "awayCN": "墨西哥",
         "homeScore": 0,
         "awayScore": 3,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-081",
+        "date": "",
+        "stage": "group_a",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "homeCN": "墨西哥",
+        "awayCN": "厄瓜多尔",
+        "homeScore": 2,
+        "awayScore": 0,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -2186,6 +2215,20 @@
         "awayCN": "德国",
         "homeScore": 2,
         "awayScore": 1,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-081",
+        "date": "",
+        "stage": "group_a",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "homeCN": "墨西哥",
+        "awayCN": "厄瓜多尔",
+        "homeScore": 2,
+        "awayScore": 0,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -4753,6 +4796,21 @@
       "awayScore": 0,
       "homeRef": "France",
       "awayRef": "Sweden",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-081",
+      "matchNo": 81,
+      "homeTeam": "Mexico",
+      "awayTeam": "Ecuador",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeRef": "Mexico",
+      "awayRef": "Ecuador",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
