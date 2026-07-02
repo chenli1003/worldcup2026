@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T23:51:00.245796+00:00",
-  "totalMatches": 83,
-  "playedCount": 83,
+  "generatedAt": "2026-07-02T02:49:28.797419+00:00",
+  "totalMatches": 84,
+  "playedCount": 84,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1251,6 +1251,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-084",
+        "matchNo": 84,
+        "homeTeam": "United States",
+        "awayTeam": "Bosnia and Herzegovina",
+        "homeScore": 2,
+        "awayScore": 0,
+        "homeRef": "United States",
+        "awayRef": "Bosnia and Herzegovina",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -1559,6 +1574,20 @@
         "awayCN": "卡塔尔",
         "homeScore": 3,
         "awayScore": 1,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-084",
+        "date": "",
+        "stage": "group_a",
+        "home": "United States",
+        "away": "Bosnia and Herzegovina",
+        "homeCN": "United States",
+        "awayCN": "波黑",
+        "homeScore": 2,
+        "awayScore": 0,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -1895,6 +1924,20 @@
         "awayCN": "United States",
         "homeScore": 3,
         "awayScore": 2,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-084",
+        "date": "",
+        "stage": "group_a",
+        "home": "United States",
+        "away": "Bosnia and Herzegovina",
+        "homeCN": "United States",
+        "awayCN": "波黑",
+        "homeScore": 2,
+        "awayScore": 0,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -4927,6 +4970,21 @@
       "awayScore": 2,
       "homeRef": "Belgium",
       "awayRef": "Senegal",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-084",
+      "matchNo": 84,
+      "homeTeam": "United States",
+      "awayTeam": "Bosnia and Herzegovina",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeRef": "United States",
+      "awayRef": "Bosnia and Herzegovina",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
