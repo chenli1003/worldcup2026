@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-03T20:37:18.397151+00:00",
-  "totalMatches": 87,
-  "playedCount": 87,
+  "generatedAt": "2026-07-03T21:44:16.606821+00:00",
+  "totalMatches": 89,
+  "playedCount": 89,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1311,6 +1311,36 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-088",
+        "matchNo": 88,
+        "homeTeam": "Australia",
+        "awayTeam": "Egypt",
+        "homeScore": 1,
+        "awayScore": 1,
+        "homeRef": "Australia",
+        "awayRef": "Egypt",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
+      },
+      {
+        "id": "2026-089",
+        "matchNo": 89,
+        "homeTeam": "Souttar Irvine Mabil Herrington",
+        "awayTeam": "Saber Rabia Salah Abdelmaguid",
+        "homeScore": 2,
+        "awayScore": 4,
+        "homeRef": "Souttar Irvine Mabil Herrington",
+        "awayRef": "Saber Rabia Salah Abdelmaguid",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -2102,6 +2132,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-088",
+        "date": "",
+        "stage": "group_a",
+        "home": "Australia",
+        "away": "Egypt",
+        "homeCN": "澳大利亚",
+        "awayCN": "埃及",
+        "homeScore": 1,
+        "awayScore": 1,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Turkey": [
@@ -2679,6 +2723,20 @@
         "away": "Iran",
         "homeCN": "埃及",
         "awayCN": "Iran",
+        "homeScore": 1,
+        "awayScore": 1,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-088",
+        "date": "",
+        "stage": "group_a",
+        "home": "Australia",
+        "away": "Egypt",
+        "homeCN": "澳大利亚",
+        "awayCN": "埃及",
         "homeScore": 1,
         "awayScore": 1,
         "city": "",
@@ -3853,6 +3911,38 @@
         "awayCN": "El Aynaoui Rahimi Talbi Hakimi Saibari",
         "homeScore": 2,
         "awayScore": 3,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      }
+    ],
+    "Souttar Irvine Mabil Herrington": [
+      {
+        "id": "2026-089",
+        "date": "",
+        "stage": "group_a",
+        "home": "Souttar Irvine Mabil Herrington",
+        "away": "Saber Rabia Salah Abdelmaguid",
+        "homeCN": "Souttar Irvine Mabil Herrington",
+        "awayCN": "Saber Rabia Salah Abdelmaguid",
+        "homeScore": 2,
+        "awayScore": 4,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      }
+    ],
+    "Saber Rabia Salah Abdelmaguid": [
+      {
+        "id": "2026-089",
+        "date": "",
+        "stage": "group_a",
+        "home": "Souttar Irvine Mabil Herrington",
+        "away": "Saber Rabia Salah Abdelmaguid",
+        "homeCN": "Souttar Irvine Mabil Herrington",
+        "awayCN": "Saber Rabia Salah Abdelmaguid",
+        "homeScore": 2,
+        "awayScore": 4,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -5159,6 +5249,36 @@
       "awayScore": 0,
       "homeRef": "Switzerland",
       "awayRef": "Algeria",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-088",
+      "matchNo": 88,
+      "homeTeam": "Australia",
+      "awayTeam": "Egypt",
+      "homeScore": 1,
+      "awayScore": 1,
+      "homeRef": "Australia",
+      "awayRef": "Egypt",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-089",
+      "matchNo": 89,
+      "homeTeam": "Souttar Irvine Mabil Herrington",
+      "awayTeam": "Saber Rabia Salah Abdelmaguid",
+      "homeScore": 2,
+      "awayScore": 4,
+      "homeRef": "Souttar Irvine Mabil Herrington",
+      "awayRef": "Saber Rabia Salah Abdelmaguid",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
