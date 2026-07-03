@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-03T01:18:58.022208+00:00",
-  "totalMatches": 86,
-  "playedCount": 86,
+  "generatedAt": "2026-07-03T05:10:50.858246+00:00",
+  "totalMatches": 87,
+  "playedCount": 87,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1296,6 +1296,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-087",
+        "matchNo": 87,
+        "homeTeam": "Switzerland",
+        "awayTeam": "Algeria",
+        "homeScore": 2,
+        "awayScore": 0,
+        "homeRef": "Switzerland",
+        "awayRef": "Algeria",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -1706,6 +1721,20 @@
         "awayCN": "加拿大",
         "homeScore": 2,
         "awayScore": 1,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-087",
+        "date": "",
+        "stage": "group_a",
+        "home": "Switzerland",
+        "away": "Algeria",
+        "homeCN": "瑞士",
+        "awayCN": "阿尔及利亚",
+        "homeScore": 2,
+        "awayScore": 0,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -3236,6 +3265,20 @@
         "awayCN": "奥地利",
         "homeScore": 3,
         "awayScore": 3,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-087",
+        "date": "",
+        "stage": "group_a",
+        "home": "Switzerland",
+        "away": "Algeria",
+        "homeCN": "瑞士",
+        "awayCN": "阿尔及利亚",
+        "homeScore": 2,
+        "awayScore": 0,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -5101,6 +5144,21 @@
       "awayScore": 1,
       "homeRef": "Portugal",
       "awayRef": "Croatia",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-087",
+      "matchNo": 87,
+      "homeTeam": "Switzerland",
+      "awayTeam": "Algeria",
+      "homeScore": 2,
+      "awayScore": 0,
+      "homeRef": "Switzerland",
+      "awayRef": "Algeria",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
