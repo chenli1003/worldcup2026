@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-04T18:13:08.104998+00:00",
-  "totalMatches": 91,
-  "playedCount": 91,
+  "generatedAt": "2026-07-04T19:37:57.260095+00:00",
+  "totalMatches": 92,
+  "playedCount": 92,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1371,6 +1371,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-092",
+        "matchNo": 92,
+        "homeTeam": "Canada",
+        "awayTeam": "Morocco",
+        "homeScore": 0,
+        "awayScore": 3,
+        "homeRef": "Canada",
+        "awayRef": "Morocco",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -1635,6 +1650,20 @@
         "awayCN": "加拿大",
         "homeScore": 0,
         "awayScore": 1,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-092",
+        "date": "",
+        "stage": "group_a",
+        "home": "Canada",
+        "away": "Morocco",
+        "homeCN": "加拿大",
+        "awayCN": "摩洛哥",
+        "homeScore": 0,
+        "awayScore": 3,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -1911,6 +1940,20 @@
         "awayCN": "摩洛哥",
         "homeScore": 1,
         "awayScore": 1,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-092",
+        "date": "",
+        "stage": "group_a",
+        "home": "Canada",
+        "away": "Morocco",
+        "homeCN": "加拿大",
+        "awayCN": "摩洛哥",
+        "homeScore": 0,
+        "awayScore": 3,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -5395,6 +5438,21 @@
       "awayScore": 0,
       "homeRef": "Colombia",
       "awayRef": "Ghana",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-092",
+      "matchNo": 92,
+      "homeTeam": "Canada",
+      "awayTeam": "Morocco",
+      "homeScore": 0,
+      "awayScore": 3,
+      "homeRef": "Canada",
+      "awayRef": "Morocco",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
