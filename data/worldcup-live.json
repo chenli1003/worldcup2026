@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-06T01:22:32.472943+00:00",
-  "totalMatches": 94,
-  "playedCount": 94,
+  "generatedAt": "2026-07-06T05:51:52.371595+00:00",
+  "totalMatches": 95,
+  "playedCount": 95,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1416,6 +1416,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-095",
+        "matchNo": 95,
+        "homeTeam": "Mexico",
+        "awayTeam": "England",
+        "homeScore": 2,
+        "awayScore": 3,
+        "homeRef": "Mexico",
+        "awayRef": "England",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -1476,6 +1491,20 @@
         "awayCN": "厄瓜多尔",
         "homeScore": 2,
         "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-095",
+        "date": "",
+        "stage": "group_a",
+        "home": "Mexico",
+        "away": "England",
+        "homeCN": "墨西哥",
+        "awayCN": "英格兰",
+        "homeScore": 2,
+        "awayScore": 3,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -3905,6 +3934,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-095",
+        "date": "",
+        "stage": "group_a",
+        "home": "Mexico",
+        "away": "England",
+        "homeCN": "墨西哥",
+        "awayCN": "英格兰",
+        "homeScore": 2,
+        "awayScore": 3,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Croatia": [
@@ -5569,6 +5612,21 @@
       "awayScore": 2,
       "homeRef": "Brazil",
       "awayRef": "Norway",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-095",
+      "matchNo": 95,
+      "homeTeam": "Mexico",
+      "awayTeam": "England",
+      "homeScore": 2,
+      "awayScore": 3,
+      "homeRef": "Mexico",
+      "awayRef": "England",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
