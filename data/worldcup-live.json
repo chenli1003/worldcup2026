@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-07T01:24:54.149215+00:00",
-  "totalMatches": 96,
-  "playedCount": 96,
+  "generatedAt": "2026-07-07T05:32:32.642775+00:00",
+  "totalMatches": 97,
+  "playedCount": 97,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1446,6 +1446,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-097",
+        "matchNo": 97,
+        "homeTeam": "United States",
+        "awayTeam": "Belgium",
+        "homeScore": 1,
+        "awayScore": 4,
+        "homeRef": "United States",
+        "awayRef": "Belgium",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -2191,6 +2206,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-097",
+        "date": "",
+        "stage": "group_a",
+        "home": "United States",
+        "away": "Belgium",
+        "homeCN": "United States",
+        "awayCN": "比利时",
+        "homeScore": 1,
+        "awayScore": 4,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Paraguay": [
@@ -2856,6 +2885,20 @@
         "awayCN": "塞内加尔",
         "homeScore": 3,
         "awayScore": 2,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-097",
+        "date": "",
+        "stage": "group_a",
+        "home": "United States",
+        "away": "Belgium",
+        "homeCN": "United States",
+        "awayCN": "比利时",
+        "homeScore": 1,
+        "awayScore": 4,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -5685,6 +5728,21 @@
       "awayScore": 1,
       "homeRef": "Portugal",
       "awayRef": "Spain",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-097",
+      "matchNo": 97,
+      "homeTeam": "United States",
+      "awayTeam": "Belgium",
+      "homeScore": 1,
+      "awayScore": 4,
+      "homeRef": "United States",
+      "awayRef": "Belgium",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
