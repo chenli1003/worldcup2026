@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-07T22:14:03.837463+00:00",
-  "totalMatches": 98,
-  "playedCount": 98,
+  "generatedAt": "2026-07-07T23:15:31.606153+00:00",
+  "totalMatches": 100,
+  "playedCount": 100,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1476,6 +1476,36 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-099",
+        "matchNo": 99,
+        "homeTeam": "Switzerland",
+        "awayTeam": "Colombia",
+        "homeScore": 0,
+        "awayScore": 0,
+        "homeRef": "Switzerland",
+        "awayRef": "Colombia",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
+      },
+      {
+        "id": "2026-100",
+        "matchNo": 100,
+        "homeTeam": "Xhaka Amdouni Akanji Itten Vargas",
+        "awayTeam": "Quintero Sánchez Campaz Hernández Díaz",
+        "homeScore": 4,
+        "awayScore": 3,
+        "homeRef": "Xhaka Amdouni Akanji Itten Vargas",
+        "awayRef": "Quintero Sánchez Campaz Hernández Díaz",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -1927,6 +1957,20 @@
         "homeCN": "瑞士",
         "awayCN": "阿尔及利亚",
         "homeScore": 2,
+        "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-099",
+        "date": "",
+        "stage": "group_a",
+        "home": "Switzerland",
+        "away": "Colombia",
+        "homeCN": "瑞士",
+        "awayCN": "哥伦比亚",
+        "homeScore": 0,
         "awayScore": 0,
         "city": "",
         "stadium": "",
@@ -4005,6 +4049,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-099",
+        "date": "",
+        "stage": "group_a",
+        "home": "Switzerland",
+        "away": "Colombia",
+        "homeCN": "瑞士",
+        "awayCN": "哥伦比亚",
+        "homeScore": 0,
+        "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "England": [
@@ -4330,6 +4388,38 @@
         "awayCN": "Saber Rabia Salah Abdelmaguid",
         "homeScore": 2,
         "awayScore": 4,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      }
+    ],
+    "Xhaka Amdouni Akanji Itten Vargas": [
+      {
+        "id": "2026-100",
+        "date": "",
+        "stage": "group_a",
+        "home": "Xhaka Amdouni Akanji Itten Vargas",
+        "away": "Quintero Sánchez Campaz Hernández Díaz",
+        "homeCN": "Xhaka Amdouni Akanji Itten Vargas",
+        "awayCN": "Quintero Sánchez Campaz Hernández Díaz",
+        "homeScore": 4,
+        "awayScore": 3,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      }
+    ],
+    "Quintero Sánchez Campaz Hernández Díaz": [
+      {
+        "id": "2026-100",
+        "date": "",
+        "stage": "group_a",
+        "home": "Xhaka Amdouni Akanji Itten Vargas",
+        "away": "Quintero Sánchez Campaz Hernández Díaz",
+        "homeCN": "Xhaka Amdouni Akanji Itten Vargas",
+        "awayCN": "Quintero Sánchez Campaz Hernández Díaz",
+        "homeScore": 4,
+        "awayScore": 3,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -5801,6 +5891,36 @@
       "awayScore": 2,
       "homeRef": "Argentina",
       "awayRef": "Egypt",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-099",
+      "matchNo": 99,
+      "homeTeam": "Switzerland",
+      "awayTeam": "Colombia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "homeRef": "Switzerland",
+      "awayRef": "Colombia",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-100",
+      "matchNo": 100,
+      "homeTeam": "Xhaka Amdouni Akanji Itten Vargas",
+      "awayTeam": "Quintero Sánchez Campaz Hernández Díaz",
+      "homeScore": 4,
+      "awayScore": 3,
+      "homeRef": "Xhaka Amdouni Akanji Itten Vargas",
+      "awayRef": "Quintero Sánchez Campaz Hernández Díaz",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
