@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-10T19:57:57.527480+00:00",
-  "totalMatches": 101,
-  "playedCount": 101,
+  "generatedAt": "2026-07-10T21:07:58.450526+00:00",
+  "totalMatches": 102,
+  "playedCount": 102,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1521,6 +1521,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-102",
+        "matchNo": 102,
+        "homeTeam": "Spain",
+        "awayTeam": "Belgium",
+        "homeScore": 2,
+        "awayScore": 1,
+        "homeRef": "Spain",
+        "awayRef": "Belgium",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -2990,6 +3005,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-102",
+        "date": "",
+        "stage": "group_a",
+        "home": "Spain",
+        "away": "Belgium",
+        "homeCN": "西班牙",
+        "awayCN": "比利时",
+        "homeScore": 2,
+        "awayScore": 1,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Egypt": [
@@ -3218,6 +3247,20 @@
         "homeCN": "葡萄牙",
         "awayCN": "西班牙",
         "homeScore": 0,
+        "awayScore": 1,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-102",
+        "date": "",
+        "stage": "group_a",
+        "home": "Spain",
+        "away": "Belgium",
+        "homeCN": "西班牙",
+        "awayCN": "比利时",
+        "homeScore": 2,
         "awayScore": 1,
         "city": "",
         "stadium": "",
@@ -5979,6 +6022,21 @@
       "awayScore": 0,
       "homeRef": "France",
       "awayRef": "Morocco",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-102",
+      "matchNo": 102,
+      "homeTeam": "Spain",
+      "awayTeam": "Belgium",
+      "homeScore": 2,
+      "awayScore": 1,
+      "homeRef": "Spain",
+      "awayRef": "Belgium",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
