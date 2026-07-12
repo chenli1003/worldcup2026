@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-12T00:09:40.969457+00:00",
-  "totalMatches": 103,
-  "playedCount": 103,
+  "generatedAt": "2026-07-12T03:55:20.358972+00:00",
+  "totalMatches": 104,
+  "playedCount": 104,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1551,6 +1551,21 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
+      },
+      {
+        "id": "2026-104",
+        "matchNo": 104,
+        "homeTeam": "Argentina",
+        "awayTeam": "Switzerland",
+        "homeScore": 3,
+        "awayScore": 1,
+        "homeRef": "Argentina",
+        "awayRef": "Switzerland",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
       }
     ]
   },
@@ -2017,6 +2032,20 @@
         "awayCN": "哥伦比亚",
         "homeScore": 0,
         "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-104",
+        "date": "",
+        "stage": "group_a",
+        "home": "Argentina",
+        "away": "Switzerland",
+        "homeCN": "阿根廷",
+        "awayCN": "瑞士",
+        "homeScore": 3,
+        "awayScore": 1,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -3769,6 +3798,20 @@
         "awayCN": "埃及",
         "homeScore": 3,
         "awayScore": 2,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-104",
+        "date": "",
+        "stage": "group_a",
+        "home": "Argentina",
+        "away": "Switzerland",
+        "homeCN": "阿根廷",
+        "awayCN": "瑞士",
+        "homeScore": 3,
+        "awayScore": 1,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -6095,6 +6138,21 @@
       "awayScore": 2,
       "homeRef": "Norway",
       "awayRef": "England",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-104",
+      "matchNo": 104,
+      "homeTeam": "Argentina",
+      "awayTeam": "Switzerland",
+      "homeScore": 3,
+      "awayScore": 1,
+      "homeRef": "Argentina",
+      "awayRef": "Switzerland",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
