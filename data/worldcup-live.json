@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-19T21:06:15.098720+00:00",
-  "totalMatches": 111,
-  "playedCount": 111,
+  "generatedAt": "2026-07-19T22:08:01.366485+00:00",
+  "totalMatches": 112,
+  "playedCount": 112,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1615,6 +1615,21 @@
       {
         "id": "2026-108",
         "matchNo": 108,
+        "homeTeam": "Spain",
+        "awayTeam": "Argentina",
+        "homeScore": 1,
+        "awayScore": 0,
+        "homeRef": "Spain",
+        "awayRef": "Argentina",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
+      },
+      {
+        "id": "2026-109",
+        "matchNo": 109,
         "homeTeam": "1–0, 2–0, 3–0",
         "awayTeam": "Algeria",
         "homeScore": 3,
@@ -1628,8 +1643,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-109",
-        "matchNo": 109,
+        "id": "2026-110",
+        "matchNo": 110,
         "homeTeam": "2–0, 3–0, 6–0",
         "awayTeam": "Qatar",
         "homeScore": 6,
@@ -1643,8 +1658,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-110",
-        "matchNo": 110,
+        "id": "2026-111",
+        "matchNo": 111,
         "homeTeam": "1–0, 2–0, 3–1",
         "awayTeam": "Norway",
         "homeScore": 4,
@@ -1658,8 +1673,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-111",
-        "matchNo": 111,
+        "id": "2026-112",
+        "matchNo": 112,
         "homeTeam": "3–0, 4–0, 5–3",
         "awayTeam": "France",
         "homeScore": 6,
@@ -2070,7 +2085,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-109",
+        "id": "2026-110",
         "date": "",
         "stage": "group_a",
         "home": "2–0, 3–0, 6–0",
@@ -3442,6 +3457,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-108",
+        "date": "",
+        "stage": "group_a",
+        "home": "Spain",
+        "away": "Argentina",
+        "homeCN": "西班牙",
+        "awayCN": "阿根廷",
+        "homeScore": 1,
+        "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Cape Verde": [
@@ -3704,7 +3733,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-111",
+        "id": "2026-112",
         "date": "",
         "stage": "group_a",
         "home": "3–0, 4–0, 5–3",
@@ -3906,7 +3935,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-110",
+        "id": "2026-111",
         "date": "",
         "stage": "group_a",
         "home": "1–0, 2–0, 3–1",
@@ -4018,6 +4047,20 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
+      },
+      {
+        "id": "2026-108",
+        "date": "",
+        "stage": "group_a",
+        "home": "Spain",
+        "away": "Argentina",
+        "homeCN": "西班牙",
+        "awayCN": "阿根廷",
+        "homeScore": 1,
+        "awayScore": 0,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
       }
     ],
     "Algeria": [
@@ -4078,7 +4121,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-108",
+        "id": "2026-109",
         "date": "",
         "stage": "group_a",
         "home": "1–0, 2–0, 3–0",
@@ -4844,7 +4887,7 @@
     ],
     "1–0, 2–0, 3–0": [
       {
-        "id": "2026-108",
+        "id": "2026-109",
         "date": "",
         "stage": "group_a",
         "home": "1–0, 2–0, 3–0",
@@ -4860,7 +4903,7 @@
     ],
     "2–0, 3–0, 6–0": [
       {
-        "id": "2026-109",
+        "id": "2026-110",
         "date": "",
         "stage": "group_a",
         "home": "2–0, 3–0, 6–0",
@@ -4876,7 +4919,7 @@
     ],
     "1–0, 2–0, 3–1": [
       {
-        "id": "2026-110",
+        "id": "2026-111",
         "date": "",
         "stage": "group_a",
         "home": "1–0, 2–0, 3–1",
@@ -4892,7 +4935,7 @@
     ],
     "3–0, 4–0, 5–3": [
       {
-        "id": "2026-111",
+        "id": "2026-112",
         "date": "",
         "stage": "group_a",
         "home": "3–0, 4–0, 5–3",
@@ -6516,6 +6559,21 @@
     {
       "id": "2026-108",
       "matchNo": 108,
+      "homeTeam": "Spain",
+      "awayTeam": "Argentina",
+      "homeScore": 1,
+      "awayScore": 0,
+      "homeRef": "Spain",
+      "awayRef": "Argentina",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-109",
+      "matchNo": 109,
       "homeTeam": "1–0, 2–0, 3–0",
       "awayTeam": "Algeria",
       "homeScore": 3,
@@ -6529,8 +6587,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-109",
-      "matchNo": 109,
+      "id": "2026-110",
+      "matchNo": 110,
       "homeTeam": "2–0, 3–0, 6–0",
       "awayTeam": "Qatar",
       "homeScore": 6,
@@ -6544,8 +6602,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-110",
-      "matchNo": 110,
+      "id": "2026-111",
+      "matchNo": 111,
       "homeTeam": "1–0, 2–0, 3–1",
       "awayTeam": "Norway",
       "homeScore": 4,
@@ -6559,8 +6617,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-111",
-      "matchNo": 111,
+      "id": "2026-112",
+      "matchNo": 112,
       "homeTeam": "3–0, 4–0, 5–3",
       "awayTeam": "France",
       "homeScore": 6,
