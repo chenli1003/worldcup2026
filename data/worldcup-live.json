@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-21T17:52:26.481501+00:00",
-  "totalMatches": 112,
-  "playedCount": 112,
+  "generatedAt": "2026-07-21T19:13:07.328789+00:00",
+  "totalMatches": 108,
+  "playedCount": 108,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1626,66 +1626,6 @@
         "kickoffUtc": "",
         "city": "",
         "stadium": ""
-      },
-      {
-        "id": "2026-109",
-        "matchNo": 109,
-        "homeTeam": "1–0, 2–0, 3–0",
-        "awayTeam": "Algeria",
-        "homeScore": 3,
-        "awayScore": 0,
-        "homeRef": "1–0, 2–0, 3–0",
-        "awayRef": "Algeria",
-        "stageNormalized": "group_a",
-        "date": "",
-        "kickoffUtc": "",
-        "city": "",
-        "stadium": ""
-      },
-      {
-        "id": "2026-110",
-        "matchNo": 110,
-        "homeTeam": "2–0, 3–0, 6–0",
-        "awayTeam": "Qatar",
-        "homeScore": 6,
-        "awayScore": 0,
-        "homeRef": "2–0, 3–0, 6–0",
-        "awayRef": "Qatar",
-        "stageNormalized": "group_a",
-        "date": "",
-        "kickoffUtc": "",
-        "city": "",
-        "stadium": ""
-      },
-      {
-        "id": "2026-111",
-        "matchNo": 111,
-        "homeTeam": "1–0, 2–0, 3–1",
-        "awayTeam": "Norway",
-        "homeScore": 4,
-        "awayScore": 1,
-        "homeRef": "1–0, 2–0, 3–1",
-        "awayRef": "Norway",
-        "stageNormalized": "group_a",
-        "date": "",
-        "kickoffUtc": "",
-        "city": "",
-        "stadium": ""
-      },
-      {
-        "id": "2026-112",
-        "matchNo": 112,
-        "homeTeam": "3–0, 4–0, 5–3",
-        "awayTeam": "France",
-        "homeScore": 6,
-        "awayScore": 4,
-        "homeRef": "3–0, 4–0, 5–3",
-        "awayRef": "France",
-        "stageNormalized": "group_a",
-        "date": "",
-        "kickoffUtc": "",
-        "city": "",
-        "stadium": ""
       }
     ]
   },
@@ -2080,20 +2020,6 @@
         "awayCN": "卡塔尔",
         "homeScore": 3,
         "awayScore": 1,
-        "city": "",
-        "stadium": "",
-        "kickoffBJ": ""
-      },
-      {
-        "id": "2026-110",
-        "date": "",
-        "stage": "group_a",
-        "home": "2–0, 3–0, 6–0",
-        "away": "Qatar",
-        "homeCN": "2–0, 3–0, 6–0",
-        "awayCN": "卡塔尔",
-        "homeScore": 6,
-        "awayScore": 0,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -3731,20 +3657,6 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
-      },
-      {
-        "id": "2026-112",
-        "date": "",
-        "stage": "group_a",
-        "home": "3–0, 4–0, 5–3",
-        "away": "France",
-        "homeCN": "3–0, 4–0, 5–3",
-        "awayCN": "法国",
-        "homeScore": 6,
-        "awayScore": 4,
-        "city": "",
-        "stadium": "",
-        "kickoffBJ": ""
       }
     ],
     "Senegal": [
@@ -3933,20 +3845,6 @@
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
-      },
-      {
-        "id": "2026-111",
-        "date": "",
-        "stage": "group_a",
-        "home": "1–0, 2–0, 3–1",
-        "away": "Norway",
-        "homeCN": "1–0, 2–0, 3–1",
-        "awayCN": "挪威",
-        "homeScore": 4,
-        "awayScore": 1,
-        "city": "",
-        "stadium": "",
-        "kickoffBJ": ""
       }
     ],
     "Argentina": [
@@ -4115,20 +4013,6 @@
         "homeCN": "瑞士",
         "awayCN": "阿尔及利亚",
         "homeScore": 2,
-        "awayScore": 0,
-        "city": "",
-        "stadium": "",
-        "kickoffBJ": ""
-      },
-      {
-        "id": "2026-109",
-        "date": "",
-        "stage": "group_a",
-        "home": "1–0, 2–0, 3–0",
-        "away": "Algeria",
-        "homeCN": "1–0, 2–0, 3–0",
-        "awayCN": "阿尔及利亚",
-        "homeScore": 3,
         "awayScore": 0,
         "city": "",
         "stadium": "",
@@ -4880,70 +4764,6 @@
         "awayCN": "Quintero Sánchez Campaz Hernández Díaz",
         "homeScore": 4,
         "awayScore": 3,
-        "city": "",
-        "stadium": "",
-        "kickoffBJ": ""
-      }
-    ],
-    "1–0, 2–0, 3–0": [
-      {
-        "id": "2026-109",
-        "date": "",
-        "stage": "group_a",
-        "home": "1–0, 2–0, 3–0",
-        "away": "Algeria",
-        "homeCN": "1–0, 2–0, 3–0",
-        "awayCN": "阿尔及利亚",
-        "homeScore": 3,
-        "awayScore": 0,
-        "city": "",
-        "stadium": "",
-        "kickoffBJ": ""
-      }
-    ],
-    "2–0, 3–0, 6–0": [
-      {
-        "id": "2026-110",
-        "date": "",
-        "stage": "group_a",
-        "home": "2–0, 3–0, 6–0",
-        "away": "Qatar",
-        "homeCN": "2–0, 3–0, 6–0",
-        "awayCN": "卡塔尔",
-        "homeScore": 6,
-        "awayScore": 0,
-        "city": "",
-        "stadium": "",
-        "kickoffBJ": ""
-      }
-    ],
-    "1–0, 2–0, 3–1": [
-      {
-        "id": "2026-111",
-        "date": "",
-        "stage": "group_a",
-        "home": "1–0, 2–0, 3–1",
-        "away": "Norway",
-        "homeCN": "1–0, 2–0, 3–1",
-        "awayCN": "挪威",
-        "homeScore": 4,
-        "awayScore": 1,
-        "city": "",
-        "stadium": "",
-        "kickoffBJ": ""
-      }
-    ],
-    "3–0, 4–0, 5–3": [
-      {
-        "id": "2026-112",
-        "date": "",
-        "stage": "group_a",
-        "home": "3–0, 4–0, 5–3",
-        "away": "France",
-        "homeCN": "3–0, 4–0, 5–3",
-        "awayCN": "法国",
-        "homeScore": 6,
-        "awayScore": 4,
         "city": "",
         "stadium": "",
         "kickoffBJ": ""
@@ -6565,66 +6385,6 @@
       "awayScore": 0,
       "homeRef": "Spain",
       "awayRef": "Argentina",
-      "stageNormalized": "group_a",
-      "date": "",
-      "kickoffUtc": "",
-      "city": "",
-      "stadium": ""
-    },
-    {
-      "id": "2026-109",
-      "matchNo": 109,
-      "homeTeam": "1–0, 2–0, 3–0",
-      "awayTeam": "Algeria",
-      "homeScore": 3,
-      "awayScore": 0,
-      "homeRef": "1–0, 2–0, 3–0",
-      "awayRef": "Algeria",
-      "stageNormalized": "group_a",
-      "date": "",
-      "kickoffUtc": "",
-      "city": "",
-      "stadium": ""
-    },
-    {
-      "id": "2026-110",
-      "matchNo": 110,
-      "homeTeam": "2–0, 3–0, 6–0",
-      "awayTeam": "Qatar",
-      "homeScore": 6,
-      "awayScore": 0,
-      "homeRef": "2–0, 3–0, 6–0",
-      "awayRef": "Qatar",
-      "stageNormalized": "group_a",
-      "date": "",
-      "kickoffUtc": "",
-      "city": "",
-      "stadium": ""
-    },
-    {
-      "id": "2026-111",
-      "matchNo": 111,
-      "homeTeam": "1–0, 2–0, 3–1",
-      "awayTeam": "Norway",
-      "homeScore": 4,
-      "awayScore": 1,
-      "homeRef": "1–0, 2–0, 3–1",
-      "awayRef": "Norway",
-      "stageNormalized": "group_a",
-      "date": "",
-      "kickoffUtc": "",
-      "city": "",
-      "stadium": ""
-    },
-    {
-      "id": "2026-112",
-      "matchNo": 112,
-      "homeTeam": "3–0, 4–0, 5–3",
-      "awayTeam": "France",
-      "homeScore": 6,
-      "awayScore": 4,
-      "homeRef": "3–0, 4–0, 5–3",
-      "awayRef": "France",
       "stageNormalized": "group_a",
       "date": "",
       "kickoffUtc": "",
