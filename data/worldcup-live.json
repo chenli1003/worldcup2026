@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-27T22:34:32.693880+00:00",
-  "totalMatches": 107,
-  "playedCount": 107,
+  "generatedAt": "2026-07-27T23:44:00.279160+00:00",
+  "totalMatches": 108,
+  "playedCount": 108,
   "upcomingCount": 0,
   "todayPlayed": [],
   "todayUpcoming": [],
@@ -1585,6 +1585,21 @@
       {
         "id": "2026-106",
         "matchNo": 106,
+        "homeTeam": "England",
+        "awayTeam": "Argentina",
+        "homeScore": 1,
+        "awayScore": 2,
+        "homeRef": "England",
+        "awayRef": "Argentina",
+        "stageNormalized": "group_a",
+        "date": "",
+        "kickoffUtc": "",
+        "city": "",
+        "stadium": ""
+      },
+      {
+        "id": "2026-107",
+        "matchNo": 107,
         "homeTeam": "France",
         "awayTeam": "England",
         "homeScore": 4,
@@ -1598,8 +1613,8 @@
         "stadium": ""
       },
       {
-        "id": "2026-107",
-        "matchNo": 107,
+        "id": "2026-108",
+        "matchNo": 108,
         "homeTeam": "Spain",
         "awayTeam": "Argentina",
         "homeScore": 1,
@@ -3370,7 +3385,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-107",
+        "id": "2026-108",
         "date": "",
         "stage": "group_a",
         "home": "Spain",
@@ -3630,7 +3645,7 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-106",
+        "id": "2026-107",
         "date": "",
         "stage": "group_a",
         "home": "France",
@@ -3918,7 +3933,21 @@
         "kickoffBJ": ""
       },
       {
-        "id": "2026-107",
+        "id": "2026-106",
+        "date": "",
+        "stage": "group_a",
+        "home": "England",
+        "away": "Argentina",
+        "homeCN": "英格兰",
+        "awayCN": "阿根廷",
+        "homeScore": 1,
+        "awayScore": 2,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-108",
         "date": "",
         "stage": "group_a",
         "home": "Spain",
@@ -4425,6 +4454,20 @@
       },
       {
         "id": "2026-106",
+        "date": "",
+        "stage": "group_a",
+        "home": "England",
+        "away": "Argentina",
+        "homeCN": "英格兰",
+        "awayCN": "阿根廷",
+        "homeScore": 1,
+        "awayScore": 2,
+        "city": "",
+        "stadium": "",
+        "kickoffBJ": ""
+      },
+      {
+        "id": "2026-107",
         "date": "",
         "stage": "group_a",
         "home": "France",
@@ -6306,6 +6349,21 @@
     {
       "id": "2026-106",
       "matchNo": 106,
+      "homeTeam": "England",
+      "awayTeam": "Argentina",
+      "homeScore": 1,
+      "awayScore": 2,
+      "homeRef": "England",
+      "awayRef": "Argentina",
+      "stageNormalized": "group_a",
+      "date": "",
+      "kickoffUtc": "",
+      "city": "",
+      "stadium": ""
+    },
+    {
+      "id": "2026-107",
+      "matchNo": 107,
       "homeTeam": "France",
       "awayTeam": "England",
       "homeScore": 4,
@@ -6319,8 +6377,8 @@
       "stadium": ""
     },
     {
-      "id": "2026-107",
-      "matchNo": 107,
+      "id": "2026-108",
+      "matchNo": 108,
       "homeTeam": "Spain",
       "awayTeam": "Argentina",
       "homeScore": 1,
